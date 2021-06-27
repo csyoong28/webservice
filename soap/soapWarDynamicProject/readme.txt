@@ -1,0 +1,1 @@
+this one able to create war, put into weblogic 12c and test wsdl
