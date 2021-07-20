@@ -3,3 +3,4 @@
 /REST/apache-tomcat-7.0.109/wtpwebapps/RESTMessenger/WEB-INF/classes/com/youtube/javabrains/RESTMessenger/resources/*.class
 /REST/apache-tomcat-7.0.109/wtpwebapps/RESTMessenger/WEB-INF/classes/com/youtube/javabrains/RESTMessenger/resources/beans/*.class
 /REST/apache-tomcat-7.0.109/wtpwebapps/RESTMessenger/WEB-INF/classes/com/youtube/javabrains/RESTMessenger/service/*.class
+/REST/apache-tomcat-7.0.109/wtpwebapps/advance-JAX-RS/WEB-INF/classes/com/youtube/javabrains/advance_JAX_RS/resources/*.class
